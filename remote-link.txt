@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://epa-endorsement-valve-materials.trycloudflare.com/vnc.html
+URL       : https://recognition-fri-motel-franchise.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-16 11:32:33
+Created   : 2026-07-16 16:17:48
 =======================================================
