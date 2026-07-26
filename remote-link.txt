@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://net-cuisine-instructor-minimize.trycloudflare.com/vnc.html
+URL       : https://protein-made-struct-functional.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-26 11:19:36
+Created   : 2026-07-26 16:01:22
 =======================================================
