@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stage-printable-logo-hash.trycloudflare.com/vnc.html
+URL       : https://solutions-sept-installed-army.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-27 21:08:40
+Created   : 2026-07-28 02:07:21
 =======================================================
