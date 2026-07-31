@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://translator-cement-slim-tel.trycloudflare.com/vnc.html
+URL       : https://genre-instructors-piece-radio.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 07:51:06
+Created   : 2026-07-31 11:58:56
 =======================================================
