@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://both-disable-internationally-adventures.trycloudflare.com/vnc.html
+URL       : https://method-ottawa-sixth-measure.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 07:27:30
+Created   : 2026-08-01 11:15:59
 =======================================================
