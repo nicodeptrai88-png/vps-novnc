@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://permission-assessments-helena-procedure.trycloudflare.com/vnc.html
+URL       : https://obviously-apartments-assessed-processors.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 07:31:53
+Created   : 2026-08-02 11:16:26
 =======================================================
