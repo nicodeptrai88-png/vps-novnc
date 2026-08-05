@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://assembled-daily-connectors-mistakes.trycloudflare.com/vnc.html
+URL       : https://immediately-moon-phases-tray.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 02:04:44
+Created   : 2026-08-05 07:37:52
 =======================================================
