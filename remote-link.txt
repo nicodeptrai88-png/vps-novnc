@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://actor-lift-understood-weather.trycloudflare.com/vnc.html
+URL       : https://metallica-deeply-ear-maintaining.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 16:31:36
+Created   : 2026-08-05 21:06:41
 =======================================================
