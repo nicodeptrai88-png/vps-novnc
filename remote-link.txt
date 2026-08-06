@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://grass-contents-actually-techniques.trycloudflare.com/vnc.html
+URL       : https://overnight-phone-coat-pure.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-06 07:38:37
+Created   : 2026-08-06 12:02:31
 =======================================================
