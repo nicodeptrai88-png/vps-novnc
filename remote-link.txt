@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://organisms-borough-termination-signals.trycloudflare.com/vnc.html
+URL       : https://agent-alex-industries-propose.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 06:10:03
+Created   : 2026-08-07 10:50:35
 =======================================================
