@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://agent-alex-industries-propose.trycloudflare.com/vnc.html
+URL       : https://guide-hostels-posted-going.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 10:50:35
+Created   : 2026-08-07 20:37:52
 =======================================================
