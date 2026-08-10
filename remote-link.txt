@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gym-importantly-forms-landscapes.trycloudflare.com/vnc.html
+URL       : https://egg-editorial-prominent-heroes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 01:22:09
+Created   : 2026-08-10 06:11:26
 =======================================================
