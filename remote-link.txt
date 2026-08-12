@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brake-attachment-apparently-restrict.trycloudflare.com/vnc.html
+URL       : https://drunk-cap-upgrades-logic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-11 20:40:21
+Created   : 2026-08-12 01:28:22
 =======================================================
