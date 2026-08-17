@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://product-military-correspondence-included.trycloudflare.com/vnc.html
+URL       : https://past-certified-undergraduate-dot.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 15:23:10
+Created   : 2026-08-17 20:23:36
 =======================================================
