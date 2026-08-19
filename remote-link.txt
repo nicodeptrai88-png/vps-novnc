@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cage-lung-origins-marcus.trycloudflare.com/vnc.html
+URL       : https://blanket-layers-relative-leaves.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 20:20:39
+Created   : 2026-08-19 00:59:54
 =======================================================
