@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gotta-our-they-argued.trycloudflare.com/vnc.html
+URL       : https://kings-diet-cassette-healthcare.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 15:37:12
+Created   : 2026-08-24 20:26:28
 =======================================================
