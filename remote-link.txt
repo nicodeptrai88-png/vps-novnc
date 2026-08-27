@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://generations-pizza-destinations-fairly.trycloudflare.com/vnc.html
+URL       : https://hat-magnificent-bangkok-lean.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-26 22:42:06
+Created   : 2026-08-27 06:57:05
 =======================================================
