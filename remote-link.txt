@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coat-roman-sunny-tions.trycloudflare.com/vnc.html
+URL       : https://effort-alternative-critics-realm.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 02:39:56
+Created   : 2026-09-05 08:48:37
 =======================================================
