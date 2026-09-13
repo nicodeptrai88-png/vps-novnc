@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chevy-component-announced-tree.trycloudflare.com/vnc.html
+URL       : https://beer-ads-registrar-careers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-13 09:58:37
+Created   : 2026-09-13 14:05:14
 =======================================================
