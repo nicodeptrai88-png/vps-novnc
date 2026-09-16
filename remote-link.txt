@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://totals-characteristic-adjustments-focus.trycloudflare.com/vnc.html
+URL       : https://thirty-signs-burns-total.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-16 18:40:23
+Created   : 2026-09-16 22:38:19
 =======================================================
