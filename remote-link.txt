@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cia-teeth-filing-practices.trycloudflare.com/vnc.html
+URL       : https://shortly-territory-highlights-rouge.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-21 03:01:42
+Created   : 2026-09-21 10:24:17
 =======================================================
