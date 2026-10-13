@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://omissions-punch-sec-wonder.trycloudflare.com/vnc.html
+URL       : https://select-approved-minimum-text.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 05:10:52
+Created   : 2026-10-13 17:21:10
 =======================================================
