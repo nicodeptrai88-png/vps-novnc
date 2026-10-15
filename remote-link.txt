@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://anonymous-revision-solutions-translation.trycloudflare.com/vnc.html
+URL       : https://release-cloth-connectors-bin.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 02:55:59
+Created   : 2026-10-15 09:36:46
 =======================================================
