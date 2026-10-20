@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://occurred-duration-fall-elementary.trycloudflare.com/vnc.html
+URL       : https://breeds-strap-parliamentary-distant.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 09:48:27
+Created   : 2026-10-20 14:40:15
 =======================================================
