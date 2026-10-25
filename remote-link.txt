@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://already-imported-seriously-spas.trycloudflare.com/vnc.html
+URL       : https://political-childhood-activated-whatever.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 14:07:27
+Created   : 2026-10-25 18:05:56
 =======================================================
