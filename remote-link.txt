@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://architectural-msie-sunset-heather.trycloudflare.com/vnc.html
+URL       : https://customs-receive-stylus-truck.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-30 19:51:23
+Created   : 2026-10-30 23:30:24
 =======================================================
