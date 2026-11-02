@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://queensland-mayor-usc-done.trycloudflare.com/vnc.html
+URL       : https://beijing-diamonds-beatles-pilot.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 04:02:39
+Created   : 2026-11-02 13:03:44
 =======================================================
