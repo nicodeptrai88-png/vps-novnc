@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ago-nursery-portal-anderson.trycloudflare.com/vnc.html
+URL       : https://aged-signature-practical-creek.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 17:31:13
+Created   : 2026-11-04 00:22:26
 =======================================================
