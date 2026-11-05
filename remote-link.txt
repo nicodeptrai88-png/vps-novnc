@@ -1,7 +1,7 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://municipality-garbage-provision-taste.trycloudflare.com/vnc.html
+URL       : https://trends-medicare-development-eyed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
